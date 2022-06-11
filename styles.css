@@ -1,0 +1,26 @@
+body {
+    margin: 100px;
+    font-family: Helvetic, Arial, "Trebuchet MS", Verdana, sans-serif;
+}
+
+h2 {
+font-family: Helvetic, Arial, "Trebuchet MS", Verdana, sans-serif;
+}
+
+p {
+font-family: Helvetic, Arial, "Trebuchet MS", Verdana, sans-serif;
+}
+
+.flex-container {
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+.sections {
+    padding: 20px;
+}
+
+.content {
+    padding: 20px;
+}
