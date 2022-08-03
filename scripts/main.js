@@ -4,7 +4,7 @@ const aboutContent = "I am a graduate student researcher with Professors <a href
 const educationContent="<ul class='list-group'><li class='list-group-item'>M.S. in Computer Science, University of Virginia (2021-present)</li><li class='list-group-item'>B.Tech. in Computer Science and Engineering, NITK Surathkal, India (2015-2019)</li></ul>";
 
 
-const paperContent="<ol class='list-group list-group-numbered'><li class='list-group-item'><p>Ritwick Mishra et al. “Community Detection using Moore-Shannon Network Reliability: Application to Food Networks”. In: <em>International Conference on Complex Networks and their Applications.</em> Springer. 2022. To appear.</p></li><li class='list-group-item'><p>Stephanie Schoch, Ritwick Mishra, and Yangfeng Ji. “Data Selection for Finetuning Large Language Models Using Transferred Shapley Values”. (2022). Under review.</p></li></ol>" 
+const paperContent="<ol class='list-group list-group-numbered'><li class='list-group-item'><p>Ritwick Mishra et al. “Community Detection using Moore-Shannon Network Reliability: Application to Food Networks”. In: <em>International Conference on Complex Networks and their Applications.</em> Springer. 2022. To appear.</p></li></ol>" 
 window.onload = function() {
     activateListItem("About")
     document.getElementById("content").innerHTML = aboutContent;
