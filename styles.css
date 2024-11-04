@@ -10,6 +10,10 @@ p {
 font-family: Helvetic, Arial, "Trebuchet MS", Verdana, sans-serif;
 }
 
+hr.solid {
+    border-top: 2px solid #bbb
+}
+
 
 .flex-container {
 display: flex;
